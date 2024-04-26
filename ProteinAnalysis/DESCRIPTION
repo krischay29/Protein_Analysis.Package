@@ -3,7 +3,7 @@ Type: Package
 Title: Protein Analysis Package.
 Version: 2.6
 Authors: ("Krishna", "Katha", "krishnac@usf.edu", role =c("aut", "cre"))
-Description: The **BioCalculator** package This package provides functions for analyzing protein sequences,including molecular weight of a protein sequence, and isoelectric point (pI) of a protein sequence.
+Description: The ProteinAnalysis package. This package provides functions for analyzing protein sequences,including molecular weight of a protein sequence, and isoelectric point (pI) of a protein sequence.
 License: CCO
 LazyData: true
 Encoding: UTF-8
